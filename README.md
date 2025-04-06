@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Estevão Lins Maia</h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
+<h3 align="center">A Data Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttstive&label=Profile%20views&color=0e75b6&style=flat" alt="ttstive" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ttstive" alt="ttstive" /></a> </p>
 
-- 🔭 I’m currently working on Sicoob **as Automation Analyst**
+- 🔭 I’m currently working on Sicoob **as Data Engineer**
 
 - 🌱 I’m currently learning **Python, Spark, SQL, Apache and Airflow**
 
