@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Sicoob **as Data Engineer**
 
-- 🌱 I’m currently learning **Python, Spark, SQL, Apache and Airflow**
+- 🌱 I’m currently learning **Python, Spark, SQL, DBT and Airflow**
 
 - 👯 I’m looking to collaborate on **Data Automation and Engineering Projects**
 
