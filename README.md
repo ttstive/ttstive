@@ -5,13 +5,12 @@
 - 🌱 I’m currently learning **Python, Spark, SQL, DBT and Airflow**  
 - 👯 I’m looking to collaborate on **Data Automation and Engineering Projects**  
 - 👨‍💻 All of my projects are available at:  
-  [rtifolium-estevao.streamlit.app](https://rtifolium-estevao-fuzqhksnjjewn4uwrls68d.streamlit.app)  
 - 📝 I regularly write articles on:  
-  [medium.com/@estevaomaia18](https://medium.com/@estevaomaia18)  
+  [medium.com/@estevaomaia18](https://medium.com/@estevaolins94)  
 - 💬 Ask me about: **Python, Spark and SQL**  
 - 📫 How to reach me: **estevaolins94@gmail.com**  
 - 📄 Know about my experiences:  
-  [portifolium-estevao.streamlit.app](https://portifolium-estevao-fuzqhksnjjewn4uwrls68d.streamlit.app)
+  [portifolium-estevao.streamlit.app]([https://portifolium-estevao-fuzqhksnjjewn4uwrls68d.streamlit.app](https://data-engineer-hub.vercel.app/))
 
 ---
 
