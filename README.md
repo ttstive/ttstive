@@ -10,7 +10,7 @@
 - 💬 Ask me about: **Python, Spark and SQL**  
 - 📫 How to reach me: **estevaolins94@gmail.com**  
 - 📄 Know about my experiences:  
-  [https://data-engineer-hub.vercel.app/](https://data-engineer-hub.vercel.app/)
+  [https://data-engineer-hub.vercel.app/](https://data-specialist-portfolio.vercel.app/) 
 
 ---
 
