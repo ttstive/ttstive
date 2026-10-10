@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/title-screen.svg" alt="Estevão Lins Maia — Data Engineer — Press Start" width="100%"/>
+  <img src="assets/github-title-screen.svg" alt="Estevão Lins Maia — Data Engineer — Press Start" width="100%"/>
 </p>
 
 <p align="center">
