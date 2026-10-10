@@ -100,8 +100,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_GITHUB_USER/output/snake-dark.svg"/>
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_GITHUB_USER/output/snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttstive/ttstive/output/snake-dark.svg"/>
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ttstive/ttstive/output/snake.svg"/>
   </picture>
 </p>
 
